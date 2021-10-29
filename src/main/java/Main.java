@@ -12,11 +12,11 @@ import org.docx4j.openpackaging.packages.WordprocessingMLPackage;
 public class Main {
 
     /*
-    ex1 - generisches Beispiel mit styles
-    ex2 - generisches Beispiel ohne styles
-    ex3 - generisches Beispiel ohne styles eine spalte (funktioniert)
-    ex4 - generisches Beispiel ohne styles mit <html> und <body>
-    ex5 - generisches Beispiel ohne <p> in <td>
+    ex1 - example with styles
+    ex2 - example without styles
+    ex3 - example without styles and one column (works)
+    ex4 - example without styles and <html> + <body> tags
+    ex5 - example without styles and without <p> tags within <td> tags
      */
 
     public static void main(String[] args) throws IOException, Docx4JException {
